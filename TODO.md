@@ -7,14 +7,14 @@
 - algorithms
 - using, typedef
 - Templates
-- Constexprs
+- Constexprs, consteval, constinit
 - Const correctness and noexcept.
-
-- Connect Four game
-- 
 
 - Union Find
 - Range Trees
 - Dinics
 - Floyd Warshall
 - 
+
+# important
+- smart pointers
