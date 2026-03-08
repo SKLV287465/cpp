@@ -56,3 +56,7 @@ int main() {
     set_union(v.begin(), v.end(), b.begin(), b.end(), o.begin());
     // intersection and difference
 }
+
+template <typename T> class Thing {
+
+};
